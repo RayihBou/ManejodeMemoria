@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Manejo de Memoria</string>
+    <string name="nombre">Nombre</string>
+    <string name="guardar_archivo">Guardar Archivo</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="guardar_preferencia">GUARDAR PREFERENCIA</string>
+    <string name="mostrar_preferencia">MOSTRAR PREFERENCIA</string>
+</resources>
